@@ -25,13 +25,13 @@ The primary objectives of this analysis were to:
 -	Standardized categorical values (e.g., geography labels) for consistent grouping 
 -	Joined datasets using CustomerId to create a clean, analysis-ready master table 
 
-#### Phase 2: Python (EDA & Feature Engineering
+#### Phase 2: Python (EDA & Feature Engineering)
 -	Loaded the cleaned dataset into Pandas for analysis 
 -	Conducted exploratory data analysis to understand distributions and patterns 
 -	Created new features such as Age Groups to improve segmentation 
 -	Performed churn segmentation analysis by comparing churned vs retained customers 
 -	Analyzed churn patterns across: 
--	Geography 
+    - Geography 
     - Gender 
     - Customer activity 
     - Number of products 
